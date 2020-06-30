@@ -1,0 +1,62 @@
+/* Buttons */
+
+.btn {
+  font-weight: bolder;
+  font-size: 10;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-default {
+  box-shadow: 0 1px 2px rgba(#444444, 0.1);
+  background-color: white;
+  border-color: rgb(46,
+      45,
+      45);
+  color: rgb(46,
+      45,
+      45);
+  border: 1px solid rgba(63, 62, 62, 0.342);
+}
+
+.btn-default:hover {
+  border-color: darkgrey;
+  box-shadow: none;
+  border: 1px solid rgba(126, 125, 125, 0.342);
+}
+
+.btn-default:focus {
+  border-color: darkgrey;
+  box-shadow: none;
+}
+
+.btn-primary {
+  background-color: rgb(216,
+      108,
+      65);
+  color: white;
+  box-shadow: rgb(46,
+      45,
+      45);
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(46,
+      45,
+      45);
+}
+
+.link:hover {
+  color: rgb(46,
+      45,
+      45);
+}
+
+.link:focus {
+  color: rgb(46,
+      45,
+      45);
+}
